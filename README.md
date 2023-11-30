@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Static Badge](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:5windy@naver.com) 
+![views](https://gh-hits.nomadcoders.workers.dev/view?username=5windy) 
 
 ---
 
@@ -27,6 +29,9 @@
 ---
 
 ### 보유 기술 
+![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+
+
 * Java
 * C/C#, C++
 * Python
